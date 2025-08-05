@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>TIE Fighter Soundcast</title>
+    <link>https://your-site.com</link>
+    <description>Custom Alexa-triggered sound</description>
+    <item>
+      <title>TIE Fighter Sound</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1_o9ZRmzaF9oPNSQVhM16eLiAQZssit34" length="123456" type="audio/mpeg"/>
+      <guid>tie-fighter-sound</guid>
+      <pubDate>Tue, 05 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
